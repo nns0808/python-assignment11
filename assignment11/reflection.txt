@@ -1,0 +1,15 @@
+Static and interactive visualizations show data in different ways. A static visualization is like a picture—it
+doesn’t move or change, and everyone sees the same thing. It’s good for clear and simple messages, like in
+printed reports. An interactive visualization lets you click, zoom, or hover to explore the data yourself.
+This is helpful when you want to learn more or look at specific parts of the data. Static visuals are easy 
+to make and share, while interactive ones need more work and the right technology. Each type is useful depending
+on what you want to show and who will be looking at it.
+Dashboards are useful for real-time data exploration because they allow users to see the latest information
+in one place and interact with it easily. With features like filters, charts, and live updates, users can
+quickly spot trends, track changes, and make faster decisions. Dashboards help simplify complex data and
+make it easier to understand without needing to look through raw numbers or multiple reports.
+Interactive tools like Plotly and Dash help make data easier to understand and share in professional settings.
+Instead of looking at static charts, people can click, zoom, and explore the data themselves. This helps teams
+see trends, compare numbers, and find insights quickly. Dash lets you build simple web apps that show live
+data updates, which is useful for making faster decisions. Overall, these tools make it easier for everyone—whether
+they’re data experts or not—to understand and use the information.
